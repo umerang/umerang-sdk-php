@@ -1,0 +1,10 @@
+{
+    "name": "umerang/umerang",
+    "description": "PHP SDK for the Umerang REST API.",
+    "type": "library",
+    "keywords": ["umerang", "sdk", "api-client"],
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.1"
+    }
+}
